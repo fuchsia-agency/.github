@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <h3>👥 Our Public Members</h3>
+  <h3>👥 Our Team Members</h3>
   <p>
     A quick peek at our brilliant minds 💫
   </p>
