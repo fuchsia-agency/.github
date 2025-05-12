@@ -18,28 +18,28 @@
   <tr>
     <td align="center">
       <a href="https://github.com/jbampton">
-        <img src="https://avatars.githubusercontent.com/u/418747?v=4" width="80" alt="jbampton"/><br />
+        <img src="https://avatars.githubusercontent.com/u/418747?v=4" width="80" alt="jbampton" title="jbampton" /><br />
         <sub><b>John Bampton</b></sub><br />
         <sup>@jbampton</sup>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/BaseMax">
-        <img src="https://avatars.githubusercontent.com/u/2658040?v=4" width="80" alt="BaseMax"/><br />
+        <img src="https://avatars.githubusercontent.com/u/2658040?v=4" width="80" alt="Max Base" title="Max Base" /><br />
         <sub><b>Max Base</b></sub><br />
         <sup>@BaseMax</sup>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/johnbampton">
-        <img src="https://avatars.githubusercontent.com/u/20361754?v=4" width="80" alt="johnbampton"/><br />
+        <img src="https://avatars.githubusercontent.com/u/20361754?v=4" width="80" alt="johnbampton" title="johnbampton" /><br />
         <sub><b>Beast</b></sub><br />
         <sup>@johnbampton</sup>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/smriad">
-        <img src="https://avatars.githubusercontent.com/u/21966124?v=4" width="80" alt="smriad"/><br />
+        <img src="https://avatars.githubusercontent.com/u/21966124?v=4" width="80" alt="smriad" title="smriad" /><br />
         <sub><b>SM Riad</b></sub><br />
         <sup>@smriad</sup>
       </a>
@@ -48,5 +48,21 @@
 </table>
 
 ---
+
+<div align="center">
+  <h3>🌟 Your Face Here?</h3>
+  <p>
+    <img src="https://avatars.githubusercontent.com/u/0?v=4" width="80" alt="Your Avatar" title="Your Avatar" /><br />
+    <sub><b>Future Legend</b></sub><br />
+    <sup>@yourusername</sup>
+  </p>
+  <p>
+    We're on the lookout for <strong>elite-level developers</strong> to join our fast-moving, global, modern team. <br />
+    If you're a builder with vision, speed, and taste — we want to see you here. 
+  </p>
+  <p>
+    <a href="https://github.com/FuchsiaAgency">👾 Join the Fuchsia Agency</a> and make your mark on the future.
+  </p>
+</div>
 
 <p align="center">🎨 Made with ❤️ by the Fuchsia crew</p>
