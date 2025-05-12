@@ -8,6 +8,36 @@
 ---
 
 <div align="center">
+  <h3>🏆 Hall of Fame</h3>
+  <p>
+    Legends who left their mark on Fuchsia.
+  </p>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/summerhill5">
+        <img src="https://avatars.githubusercontent.com/u/42298149?v=4" width="80" alt="Jorge Araica" title="Jorge Araica" /><br />
+        <sub><b>Jorge Araica</b></sub><br />
+        <sup>@summerhill5</sup>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/grfxwzdesigner">
+        <img src="https://avatars.githubusercontent.com/u/33774837?v=4" width="80" alt="Harley Armentrout" title="Harley Armentrout" /><br />
+        <sub><b>Harley Armentrout</b></sub><br />
+        <sup>@grfxwzdesigner</sup>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
   <h3>👥 Our Public Members</h3>
   <p>
     A quick peek at our brilliant minds 💫
