@@ -17,17 +17,17 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/BaseMax">
-        <img src="https://avatars.githubusercontent.com/u/2658040?v=4" width="80" alt="BaseMax"/><br />
-        <sub><b>Max Base</b></sub><br />
-        <sup>@BaseMax</sup>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jbampton">
         <img src="https://avatars.githubusercontent.com/u/418747?v=4" width="80" alt="jbampton"/><br />
         <sub><b>John Bampton</b></sub><br />
         <sup>@jbampton</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BaseMax">
+        <img src="https://avatars.githubusercontent.com/u/2658040?v=4" width="80" alt="BaseMax"/><br />
+        <sub><b>Max Base</b></sub><br />
+        <sup>@BaseMax</sup>
       </a>
     </td>
     <td align="center">
