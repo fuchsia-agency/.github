@@ -23,7 +23,7 @@ body:
   - type: input
     id: github
     attributes:
-      label: 🐙 GitHub Username
+      label: 🐙 GitHub Username (Without `@`)
       placeholder: "yourusername"
     validations:
       required: true
