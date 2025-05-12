@@ -7,11 +7,12 @@
 
 ---
 
-### 👥 Our Public Members
-
-<p align="center">
-  A quick peek at our brilliant minds 💫
-</p>
+<div align="center">
+  <h3>👥 Our Public Members</h3>
+  <p>
+    A quick peek at our brilliant minds 💫
+  </p>
+</div>
 
 <table align="center">
   <tr>
