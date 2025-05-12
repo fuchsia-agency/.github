@@ -61,7 +61,7 @@
     If you're a builder with vision, speed, and taste - we want to see you here. 
   </p>
   <p>
-    <a href="https://github.com/FuchsiaAgency">👾 Join the Fuchsia Agency</a> and make your mark on the future.
+    <a href="https://github.com/fuchsia-agency/.github/issues/new?template=join-team.yml">👾 Join the Fuchsia Agency</a> and make your mark on the future.
   </p>
 </div>
 
