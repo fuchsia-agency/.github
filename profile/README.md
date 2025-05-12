@@ -52,9 +52,11 @@
 <div align="center">
   <h3>🌟 Your Face Here?</h3>
   <p>
-    <img src="https://avatars.githubusercontent.com/u/0?v=4" width="80" alt="Your Avatar" title="Your Avatar" /><br />
-    <sub><b>Future Legend</b></sub><br />
-    <sup>@yourusername</sup>
+    <a href="https://github.com/fuchsia-agency/.github/issues/new?template=join-team.yml">
+      <img src="https://avatars.githubusercontent.com/u/0?v=4" width="80" alt="Your Avatar" title="Your Avatar" /><br />
+      <sub><b>Future Legend</b></sub><br />
+      <sup>@yourusername</sup>
+    </a>
   </p>
   <p>
     We're on the lookout for <strong>elite-level developers</strong> to join our fast-moving, global, modern team. <br />
