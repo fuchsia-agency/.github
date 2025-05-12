@@ -1,0 +1,66 @@
+name: 🚀 Join the Fuchsia Agency
+description: Apply to become a public member of the Fuchsia team
+title: "[JOIN] Your Name Here"
+labels: ["join-request", "new-member"]
+assignees: ["BaseMax", "jbampton"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in joining the Fuchsia Agency!  
+        We're building a team of elite developers who ship fast, think bold, and code clean.  
+        Fill out the form below and let's build something amazing together. 👾
+
+  - type: input
+    id: name
+    attributes:
+      label: 🧑 Full Name
+      placeholder: "John Doe"
+    validations:
+      required: true
+
+  - type: input
+    id: github
+    attributes:
+      label: 🐙 GitHub Username
+      placeholder: "yourusername"
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: 🌐 Portfolio or Website (optional)
+      placeholder: "https://yourdomain.dev"
+    validations:
+      required: false
+
+  - type: textarea
+    id: skills
+    attributes:
+      label: 💼 What are your key skills?
+      placeholder: |
+        e.g. C, Ruby, PHP, TypeScript, Rust, AI/ML, DevOps, UI/UX, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 🎯 Reason for Joining & Evidence of Excellence
+      placeholder: |
+        Why do you want to join Fuchsia?  
+        What makes you a top-tier developer ready to join an elite global team?  
+        Show us what you've built, led, or contributed to — GitHub links, projects, impact, etc.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: public-profile
+    attributes:
+      label: 🔓 Public Display
+      description: Do you consent to your GitHub avatar and username being shown in our public member list?
+      options:
+        - label: Yes, display me proudly on the Fuchsia README!
+          required: true
