@@ -58,7 +58,7 @@
   </p>
   <p>
     We're on the lookout for <strong>elite-level developers</strong> to join our fast-moving, global, modern team. <br />
-    If you're a builder with vision, speed, and taste — we want to see you here. 
+    If you're a builder with vision, speed, and taste - we want to see you here. 
   </p>
   <p>
     <a href="https://github.com/FuchsiaAgency">👾 Join the Fuchsia Agency</a> and make your mark on the future.
