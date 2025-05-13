@@ -74,6 +74,13 @@
         <sup>@smriad</sup>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ayushrana182">
+        <img src="https://avatars.githubusercontent.com/u/43984189?v=4" width="80" alt="ayushrana182" title="ayushrana182" /><br />
+        <sub><b>Ayush Rana</b></sub><br />
+        <sup>@ayushrana182</sup>
+      </a>
+    </td>
   </tr>
 </table>
 
