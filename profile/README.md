@@ -74,11 +74,20 @@
         <sup>@smriad</sup>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ayushrana182">
         <img src="https://avatars.githubusercontent.com/u/43984189?v=4" width="80" alt="ayushrana182" title="ayushrana182" /><br />
         <sub><b>Ayush Rana</b></sub><br />
         <sup>@ayushrana182</sup>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VictorAraica">
+        <img src="https://avatars.githubusercontent.com/u/52689572?v=4" width="80" alt="VictorAraica" title="VictorAraica" /><br />
+        <sub><b>Víctor Araica</b></sub><br />
+        <sup>@VictorAraica</sup>
       </a>
     </td>
   </tr>
