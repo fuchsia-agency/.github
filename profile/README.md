@@ -77,6 +77,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/prio101">
+        <img src="https://avatars.githubusercontent.com/u/3279809?v=4" width="80" alt="prio101" title="prio101" /><br />
+        <sub><b>Mahabub Islam Prio</b></sub><br />
+        <sup>@prio101</sup>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/smriad">
         <img src="https://avatars.githubusercontent.com/u/21966124?v=4" width="80" alt="smriad" title="smriad" /><br />
         <sub><b>SM Riad</b></sub><br />
