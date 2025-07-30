@@ -105,6 +105,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/carefreeav09">
+        <img src="https://avatars.githubusercontent.com/u/10443785?v=4" width="80" alt="carefreeav09" title="carefreeav09" /><br />
+        <sub><b>Abhushan Gautam</b></sub><br />
+        <sup>@carefreeav09</sup>
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ---
