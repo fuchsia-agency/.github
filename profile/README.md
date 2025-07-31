@@ -120,7 +120,13 @@
         <sup>@thuongtruong109</sup>
       </a>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/johnraivenolazo">
+        <img src="https://avatars.githubusercontent.com/u/137252774?v=4" width="80" alt="johnraivenolazo" title="johnraivenolazo" /><br />
+        <sub><b>aven</b></sub><br />
+        <sup>@johnraivenolazo</sup>
+      </a>
+    </td>
     <td></td>
   </tr>
 </table>
