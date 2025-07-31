@@ -251,5 +251,5 @@
 ----
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fuchsia-agency/.github/refs/heads/main/profile/news.jpg" width="80" alt="👾 Join the Fuchsia Agency and make your mark on the future." title="👾 Join the Fuchsia Agency and make your mark on the future." />
+  <img src="https://raw.githubusercontent.com/fuchsia-agency/.github/refs/heads/main/profile/news.jpg" width="400" alt="👾 Join the Fuchsia Agency and make your mark on the future." title="👾 Join the Fuchsia Agency and make your mark on the future." />
 </p>
