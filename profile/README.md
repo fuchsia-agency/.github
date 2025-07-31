@@ -113,7 +113,13 @@
         <sup>@carefreeav09</sup>
       </a>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/thuongtruong109">
+        <img src="https://avatars.githubusercontent.com/u/88624053?v=4" width="80" alt="thuongtruong109" title="thuongtruong109" /><br />
+        <sub><b>𝕿𝖗𝖆𝖓 𝕹𝖌𝖚𝖞𝖊𝖓 𝕿𝖍𝖚𝖔𝖓𝖌 𝕿𝖗𝖚𝖔𝖓𝖌</b></sub><br />
+        <sup>@thuongtruong109</sup>
+      </a>
+    </td>
     <td></td>
     <td></td>
   </tr>
