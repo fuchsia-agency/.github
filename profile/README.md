@@ -218,7 +218,18 @@
         </sup>
       </a>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/Subham-KRLX">
+        <img src="https://avatars.githubusercontent.com/u/184364280?v=4" width="80" alt="Subham" title="Subham" /><br />
+        <sub>
+          <b>Subham</b>
+        </sub>
+        <br />
+        <sup>
+          @Subham-KRLX
+        </sup>
+      </a>
+    </td>
   </tr>
 </table>
 
