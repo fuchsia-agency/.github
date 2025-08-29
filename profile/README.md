@@ -231,6 +231,20 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ihasidul">
+        <img src="https://avatars.githubusercontent.com/u/32800356?v=4" width="80" alt="ihasidul" title="ihasidul" /><br />
+        <sub>
+          <b>Hasidul Islam</b>
+        </sub>
+        <br />
+        <sup>
+          @ihasidul
+        </sup>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
