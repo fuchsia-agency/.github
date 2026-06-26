@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   🚀 Welcome to Fuchsia Agency 👾
-</h2>
+</h1>
 
 <p align="center">
   Bold ideas. Clean code. Global impact.
@@ -8,7 +8,10 @@
   We build, contribute, and ship faster than the rest. 🔧🌍💡
 </p>
 
+---
+
 <div align="center">
+  <h2>Join Our Multi-Project Discord Super-Server</h2>
   <p>
     <a href="https://discord.gg/hKUH56YHXp">
       <img src="https://img.shields.io/badge/metropolis_retro-discord-lightgreen?style=for-the-badge&labelColor=orange" alt="Join the Metropolis Discord"></a>
