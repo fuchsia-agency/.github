@@ -100,7 +100,7 @@
         <img src="https://avatars.githubusercontent.com/u/20361754?v=4" width="80" alt="johnbampton" title="johnbampton" /><br />
         <sub>
           <b>
-            Beast
+            Office Cleaner
           </b>
         </sub>
         <br />
